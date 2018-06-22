@@ -87,3 +87,10 @@ img{
     margin-left: 2%;
 }
 
+#foto{
+    max-width: 20%;
+}
+
+#clouds{
+    height: 180px;
+}
