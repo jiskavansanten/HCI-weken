@@ -1,3 +1,5 @@
+
+
 .navbar {
     overflow: hidden;
     background-color:lightgray;
@@ -67,10 +69,11 @@ body{
     margin: 0 auto;
 }
 
-p, h1, h2, h3{
+p, h1, h2, h3, ul{
     max-width: 90%;
-    margin: 0 auto;
+    margin-left: 5%;
     margin-top: 1%;
+    max-width: 60%;
 }
 
 #flexbox{
@@ -94,3 +97,5 @@ img{
 #clouds{
     height: 180px;
 }
+
+
